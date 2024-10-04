@@ -105,7 +105,7 @@ Installation and Setup
 
 Requirements
 
-- Python 3.x
+- Python 3.8 +
 - OpenCV: For capturing webcam video feed and drawing the visualizations.
 - dlib: For face detection and facial landmark detection.
 - imutils: To help in manipulating the coordinates of facial landmarks.
